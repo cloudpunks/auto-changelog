@@ -1,6 +1,6 @@
 # auto-changelog
 
-[![Docker Build](https://github.com/cloudpunks/auto-changelog/workflows/docker/badge.svg)](https://github.com/cloudpunks/auto-changelog/actions?query=workflow%3Adocker) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://gitlab.com/gitlab-org/release-cli)
+[![Docker Build](https://github.com/cloudpunks/auto-changelog/workflows/docker/badge.svg)](https://github.com/cloudpunks/auto-changelog/actions?query=workflow%3Adocker) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/cookpete/auto-changelog)
 
 All these images are used for various scriptings, it's possible that any of
 these tools are updated randomly.
