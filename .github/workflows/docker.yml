@@ -11,9 +11,6 @@ name: docker
   pull_request:
     branches:
       - master
-    paths:
-      - latest/*
-      - .github/workflows/docker.yml
   workflow_dispatch:
   schedule:
     - cron: 0 8 * * 1
