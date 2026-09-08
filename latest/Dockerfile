@@ -2,7 +2,7 @@ FROM ghcr.io/cloudpunks/alpine:3.24@sha256:dac428a9b6d3aa41809f34a428ee8550a4f2b
 ENTRYPOINT [""]
 
 # renovate: datasource=npm depName=auto-changelog
-ENV AUTO_CHANGELOG_VERSION=2.6.0
+ENV AUTO_CHANGELOG_VERSION=2.6.1
 
 RUN apk update && \
   apk upgrade && \
